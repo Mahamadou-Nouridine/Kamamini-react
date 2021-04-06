@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Kamamini-react/static/css/main.bb7abfe5.chunk.css",
+    "main.js": "/Kamamini-react/static/js/main.d10a7e33.chunk.js",
+    "main.js.map": "/Kamamini-react/static/js/main.d10a7e33.chunk.js.map",
+    "runtime-main.js": "/Kamamini-react/static/js/runtime-main.3801d9e6.js",
+    "runtime-main.js.map": "/Kamamini-react/static/js/runtime-main.3801d9e6.js.map",
+    "static/css/2.150d169a.chunk.css": "/Kamamini-react/static/css/2.150d169a.chunk.css",
+    "static/js/2.d8e9104b.chunk.js": "/Kamamini-react/static/js/2.d8e9104b.chunk.js",
+    "static/js/2.d8e9104b.chunk.js.map": "/Kamamini-react/static/js/2.d8e9104b.chunk.js.map",
+    "static/js/3.ffb5129a.chunk.js": "/Kamamini-react/static/js/3.ffb5129a.chunk.js",
+    "static/js/3.ffb5129a.chunk.js.map": "/Kamamini-react/static/js/3.ffb5129a.chunk.js.map",
+    "index.html": "/Kamamini-react/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Kamamini-react/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.bb7abfe5.chunk.css.map": "/Kamamini-react/static/css/main.bb7abfe5.chunk.css.map",
+    "static/js/2.d8e9104b.chunk.js.LICENSE.txt": "/Kamamini-react/static/js/2.d8e9104b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3801d9e6.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.d8e9104b.chunk.js",
+    "static/css/main.bb7abfe5.chunk.css",
+    "static/js/main.d10a7e33.chunk.js"
+  ]
+}
