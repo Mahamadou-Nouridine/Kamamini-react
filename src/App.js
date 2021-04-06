@@ -18,10 +18,10 @@ const App = () => {
    <Router>
       <NavBar/>
         <Switch>
-          <Route exact path="/Kamamini-react" component={Home} />
-          <Route exact path="/Kamamini-react/login" component={Login} />
-          <Route exact path="/Kamamini-react/signup" component={SignUp} />
-          <Route exact path="/Kamamini-react/project/:slug" component={SingleProject} />
+          <Route exact path="https://mocy111.github.io/Kamamini-react/" component={Home} />
+          <Route exact path="https://mocy111.github.io/Kamamini-react//login" component={Login} />
+          <Route exact path="https://mocy111.github.io/Kamamini-react//signup" component={SignUp} />
+          <Route exact path="https://mocy111.github.io/Kamamini-react//project/:slug" component={SingleProject} />
           <Route  component={Error} />
         </Switch>
       <Footer/>
